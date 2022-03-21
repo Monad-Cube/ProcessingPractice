@@ -3,4 +3,4 @@ Collect daily practice</n>
 
 2022.3.21: Yang_Trial (crawling object)
 
-![crawling](https://user-images.githubusercontent.com/59080745/159198831-286a5f9a-afc2-4e98-bcc3-05760f31dea4.jpg)
+![walking](https://user-images.githubusercontent.com/59080745/159198911-755df716-a9a5-4f97-83fb-0d47562d2a98.gif)
