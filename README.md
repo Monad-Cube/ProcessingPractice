@@ -1,4 +1,6 @@
 # ProcessingPractice
-Collect daily practice
+Collect daily practice</n>
+
 2022.3.21: Yang_Trial (crawling object)
-![walking](https://user-images.githubusercontent.com/59080745/159198725-adb5301f-5a01-4638-84ed-9285e8f1dce5.gif)
+
+![crawling](https://user-images.githubusercontent.com/59080745/159198831-286a5f9a-afc2-4e98-bcc3-05760f31dea4.jpg)
