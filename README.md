@@ -23,3 +23,7 @@ Updated b38tn1kFunc  (original project: https://github.com/b38tn1k/b38tn1k/blob/
 2022.3.27: FluidSurf
 
 ![FluidSurf](https://user-images.githubusercontent.com/59080745/160264122-ef0a3d1c-3ff5-4c6c-a553-a6d9f12bd84b.gif)
+
+2022.3.28：MandelbrotSet (Daniel Shiffman, the coding train)
+
+![MandelbrotSet](https://user-images.githubusercontent.com/59080745/160363482-0affd032-b473-44e7-85b6-f1a874565e10.gif)
