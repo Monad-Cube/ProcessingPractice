@@ -1,0 +1,15 @@
+formula:
+r = cos(k * theta);
+x = r * cos(theta);
+
+law:
+1.k is a non-zero integer values
+#k is even, 2k petals
+#k is odd, k petals
+
+2.k is a rational number: k = n / d
+#both n and d are odd, n petals, d*Pi angles
+#2n petals otherwise
+#n is even, d is odd, or visa versa, 2d*Pi angles
+
+
