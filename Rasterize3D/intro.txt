@@ -1,0 +1,16 @@
+key idea：
+get the grey value of original image, and setting the radius and z coordinate value according to the grey value;Meanwhile, rotate the whole sphere
+
+special mention:
+
+1.radians(frameCount), very useful func to get a gratually increasing radians
+
+2.specially add sin() func to get a looping z axis position changing animation;
+
+3.img.resize(); if the form of parameters is (a,b), resizeing the width and height;
+if (a,0), just scale to the correct width and ratio of width and height will not change.
+
+tutorial from tim rodenbroker
+url: https://www.youtube.com/watch?v=WEBOTRboXBE
+
+
