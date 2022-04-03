@@ -1,6 +1,11 @@
 # ProcessingPractice
 Collect daily practice</n>
 
+2022.4.3: Rasterize3D  (PImage Rasterization, learning from this tutorial:https://www.youtube.com/watch?v=WEBOTRboXBE)
+
+![Raterize3D](https://user-images.githubusercontent.com/59080745/161418765-4ad58b90-8e40-4236-bcdc-44275c70dff7.gif)
+
+
 2022.4.1 - 4.2：RoseCurve  (Polar Coordinate)
 
 ![RoseCurve](https://user-images.githubusercontent.com/59080745/161370796-1bf2397e-00d0-4880-bac1-381dda38e65a.gif)
@@ -9,6 +14,7 @@ Collect daily practice</n>
 2022.3.31：SimpleButterfly  (Polar Coordinate & Rose Curve & Berlin Noise & Sine Movement, the coding train from daniel shiffman)
 
 ![SimpleButterfly](https://user-images.githubusercontent.com/59080745/161032583-af817677-73ce-40f2-8874-0362170e86db.gif)
+
 
 2022.3.29：FlowField  (Vector Field & Berlin Noise)
 
