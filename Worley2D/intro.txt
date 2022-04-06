@@ -1,0 +1,10 @@
+key idea:
+random feature points' positions
+translate the distance between current pixel to feature point into the grey value
+
+problems:
+when the point counts increases, program will slow down
+
+optimization:
+using grid to generate feature pionts in itself
+checking the feature points from the grid current pixel in and caculate the shortest distance, or neighbor grids;
