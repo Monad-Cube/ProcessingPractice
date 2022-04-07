@@ -1,6 +1,10 @@
 # ProcessingPractice
 Collect daily practice</n>
 
+2022.4.7：DynamicWorleyNoise
+
+![DynamicWorley](https://user-images.githubusercontent.com/59080745/162163582-116430a5-0d38-4300-8886-1fecf6f30cf3.gif)
+
 2022.4.5: WorleyNoise to simulate cells  (clostest distance, coding train, https://www.youtube.com/watch?v=4066MndcyCk)
 
 ![CellularWorleyNoise](https://user-images.githubusercontent.com/59080745/161792308-be462c0d-719a-45ce-9cf2-c8f59e1cd811.png)
