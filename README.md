@@ -3,7 +3,7 @@ Collect daily practice</n>
 
 2022.4.7：DynamicWorleyNoise
 
-![DynamicWorley](https://user-images.githubusercontent.com/59080745/162163582-116430a5-0d38-4300-8886-1fecf6f30cf3.gif)
+![DynamicWorley](https://user-images.githubusercontent.com/59080745/162165512-6d22a051-7a4e-4dde-9732-c6811ffab950.gif)
 
 2022.4.5: WorleyNoise to simulate cells  (clostest distance, coding train, https://www.youtube.com/watch?v=4066MndcyCk)
 
