@@ -1,0 +1,4 @@
+optimization
+
+divide the space into tiles and set the feature points in the tiles, in this program I put one featur point in one tile.
+each pixel in the certain tile just needs to find the closed distance in the 9 neighbor tiles
