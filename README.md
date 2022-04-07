@@ -1,7 +1,7 @@
 # ProcessingPractice
 Collect daily practice</n>
 
-2022.4.7：DynamicWorleyNoise  (Learning from GLSLversion https://thebookofshaders.com/12/)
+2022.4.7：DynamicWorleyNoise  (space partition, Learning from GLSLversion https://thebookofshaders.com/12/ and worley's paper)
 
 ![DynamicWorley](https://user-images.githubusercontent.com/59080745/162165512-6d22a051-7a4e-4dde-9732-c6811ffab950.gif)
 
