@@ -1,0 +1,13 @@
+key idea:
+calculate the position from the theta between line and plumb line, using theta velocity and theta acceleration to replace the traditional velocity and acceleration.
+
+coding analysis:
+use a pgraphics to matain the ball's motion curve, and meanwhile doesn't keep the pendulum's body's motion shadow.
+
+special mention:
+you need to pay attention the x1,y1's calculation, using cosine or sine, and the order of calculating, drawing and updating data.
+the variable in the formula is scalar.
+
+further readings:
+https://nbviewer.org/urls/www.numfys.net/media/notebooks/double_pendulum.ipynb
+
