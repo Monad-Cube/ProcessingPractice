@@ -1,6 +1,10 @@
 # ProcessingPractice
 Collect daily practice</n>
 
+2022.4.10: DoublePendulum  (theta acceleation, translate the equation to simulate the double pendulum into processing program, coding train, https://www.youtube.com/watch?v=uWzPe_S-RVE, and the based equation of motion, https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
+
+![DoublePendulum](https://user-images.githubusercontent.com/59080745/162608699-5270ecbb-bc35-4bf0-8964-ba671ce01243.gif)
+
 2022.4.7：DynamicWorleyNoise  (space partition, Learning from GLSLversion https://thebookofshaders.com/12/ and worley's paper)
 
 ![DynamicWorley](https://user-images.githubusercontent.com/59080745/162165512-6d22a051-7a4e-4dde-9732-c6811ffab950.gif)
