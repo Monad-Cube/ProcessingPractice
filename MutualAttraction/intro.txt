@@ -1,0 +1,4 @@
+special mention:
+1.use a huge object to attract other particle, loop to get force from other particle, and the centerPoint needn't to be attracted.
+2.translate the left-top corner to the center, and use the polar coordinate idea to settle the particles into the doughnut.
+3.set the particle's initial velocity same as tangential direction.
