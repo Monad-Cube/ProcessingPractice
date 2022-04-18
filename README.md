@@ -4,7 +4,7 @@ Collect daily practice</n>
 
 Geometry
 
-![Gravitational_Geometry](https://user-images.githubusercontent.com/59080745/163809990-d7ab0ddf-b954-427c-b3ca-e70b98ca7e63.gif)
+![Gravitational_Geometry](https://user-images.githubusercontent.com/59080745/163810809-b508ee2a-bab4-4327-8b24-ad67f9f82f47.gif)
 
 Line
 
