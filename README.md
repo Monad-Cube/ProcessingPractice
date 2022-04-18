@@ -3,9 +3,11 @@ Collect daily practice</n>
 2022.4.18：Mutual Gravitaiton (universal gravitation equation, mover class, polar coordinate, tangent, the coding train and the nature of code - https://www.youtube.com/watch?v=GjbKsOkN1Oc)
 
 Geometry
+
 ![Gravitational_Geometry](https://user-images.githubusercontent.com/59080745/163809990-d7ab0ddf-b954-427c-b3ca-e70b98ca7e63.gif)
 
 Line
+
 ![Gravitational_Line](https://user-images.githubusercontent.com/59080745/163802866-6e8b082d-2230-488f-9f54-190d37f4547d.gif)
 
 2022.4.10: DoublePendulum  (theta acceleation, translate the equation to simulate the double pendulum into processing program, coding train, https://www.youtube.com/watch?v=uWzPe_S-RVE, and the based equation of motion, https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
