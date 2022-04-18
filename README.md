@@ -1,6 +1,6 @@
 # ProcessingPractice
 Collect daily practice</n>
-2022.4.18：Mutual Gravitaiton (universal gravitation equation, mover class, polar coordinate, coding train and nature of code - https://www.youtube.com/watch?v=GjbKsOkN1Oc)
+2022.4.18：Mutual Gravitaiton (universal gravitation equation, mover class, polar coordinate, tangent, the coding train and the nature of code - https://www.youtube.com/watch?v=GjbKsOkN1Oc)
 
 
 ![Gravitational_Line](https://user-images.githubusercontent.com/59080745/163802866-6e8b082d-2230-488f-9f54-190d37f4547d.gif)
