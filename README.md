@@ -1,5 +1,14 @@
 # ProcessingPractice
 Collect daily practice</n>
+2022.6.5: StarField(learning from daniel shiffman, url:https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLoNVRhhr9PCj93E2Y8yPm9L8gaqsa4yFl&index=21)
+ellipse
+
+![starField](https://user-images.githubusercontent.com/59080745/172038545-234509a5-0805-408c-937f-7350214ac70e.gif)
+
+line
+
+![starField_Line](https://user-images.githubusercontent.com/59080745/172038553-d7557c7d-4d1e-4eeb-9b08-147ace42c7a3.gif)
+
 2022.4.18：Mutual Gravitaiton (universal gravitation equation, mover class, polar coordinate, tangent, the coding train and the nature of code - https://www.youtube.com/watch?v=GjbKsOkN1Oc)
 
 Geometry
