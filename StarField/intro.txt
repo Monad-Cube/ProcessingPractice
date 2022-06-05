@@ -1,0 +1,8 @@
+keyidea:
+
+not use the 3D coordinate, just move the point or line from center to the border to simulate the 3D movement.
+
+1. translate the center's position to the screen center,
+2. change the z position while looping 
+3. caculate the ratio of x positon to z position, and map it to the range which is from 0 to width or height if it is from 0 to 1, map it to the range which is from negative width or height to 0 if it is from -1 to 0;.
+4. when the space key is pressed, center's position is detemined by mouseX and mouseY.
