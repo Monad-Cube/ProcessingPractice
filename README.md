@@ -8,6 +8,10 @@ PointCloud
 
 Line
 
+![MandelBulb_Line](https://user-images.githubusercontent.com/59080745/175551661-94cef222-dea4-466d-9201-ae2b91c48300.gif)
+
+
+
 2022.6.5: StarField(learning from daniel shiffman, not use the 3D coordinate, just move the point or line from center to the border to simulate the 3D movement. url:https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLoNVRhhr9PCj93E2Y8yPm9L8gaqsa4yFl&index=21)
 
 ellipse
