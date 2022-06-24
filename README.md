@@ -1,5 +1,12 @@
 # ProcessingPractice
 Collect daily practice</n>
+2022.6.24: MandelBulb(using spherical coordinate to caculate the z's n-power, https://www.youtube.com/watch?v=NJCiUVGiNyA)
+
+PointCloud
+![MandelBulb_PointCloud](https://user-images.githubusercontent.com/59080745/175547331-cdd8d452-7bd5-4913-a062-4915716252f7.gif)
+
+Line
+
 2022.6.5: StarField(learning from daniel shiffman, not use the 3D coordinate, just move the point or line from center to the border to simulate the 3D movement. url:https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLoNVRhhr9PCj93E2Y8yPm9L8gaqsa4yFl&index=21)
 
 ellipse
