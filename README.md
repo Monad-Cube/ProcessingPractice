@@ -3,6 +3,7 @@ Collect daily practice</n>
 2022.6.24: MandelBulb(using spherical coordinate to caculate the z's n-power, https://www.youtube.com/watch?v=NJCiUVGiNyA)
 
 PointCloud
+
 ![MandelBulb_PointCloud](https://user-images.githubusercontent.com/59080745/175547331-cdd8d452-7bd5-4913-a062-4915716252f7.gif)
 
 Line
